@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+*{ scroll-behavior: smooth}
+
+section { 
+
+	padding-top: 20px
+}
